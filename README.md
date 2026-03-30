@@ -3,7 +3,7 @@
   <h1>Hulxv's Official Website</h1>
   </div>
 
-Welcome to my personal space where I share my thoughts and blog posts. You can find my website at [hulxv.netlify.app](https://hulxv.netlify.app) or [hulxv.vercel.app](https://hulxv.vercel.app).
+Welcome to my personal space where I share my thoughts and blog posts. You can find my website at [hulxv.netlify.app](https://hulxv.netlify.app) or [hulxv.me](https://hulxv.me).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fb47f262-fb0d-4e5b-9d31-3c699455197d/deploy-status)](https://app.netlify.com/sites/hulxv/deploys)
 
